@@ -16,6 +16,16 @@ Com o **Fiscal de Procrastinação**, você define **intervalos de bloqueio** e 
 
 ---
 
+## ⚙️ Como usar
+
+1. Clone ou baixe este repositório.
+2. Abra o Chrome e vá em `chrome://extensions/`.
+3. Ative o **Modo de Desenvolvedor** no canto superior direito.
+4. Clique em **Carregar sem compactação** e selecione a pasta do projeto.
+5. A extensão estará ativa e pronta para uso!
+
+---
+
 ## 🖼️ Demonstração  
 
 ### Tela da extensão (popup)
