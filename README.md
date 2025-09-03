@@ -48,22 +48,19 @@ Com o **Fiscal de Procrastinação**, você define **intervalos de bloqueio** e 
 
 ---
 
-## 📂 Estrutura do Projeto  
+## 📂 Estrutura do Projeto
+
 fiscal-de-procrastinacao/
-│── manifest.json
-│
+├── manifest.json
 ├── popup/
 │   ├── popup.html
 │   ├── popup.js
 │   └── popup.css
-│
 ├── content/
 │   ├── content.js
 │   └── content.css
-│
 ├── icons/
 │   ├── icon16.png
 │   ├── icon48.png
 │   └── icon128.png
-│
 └── README.md
