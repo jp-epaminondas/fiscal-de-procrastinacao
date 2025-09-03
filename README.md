@@ -48,19 +48,11 @@ Com o **Fiscal de Procrastinação**, você define **intervalos de bloqueio** e 
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🖋️ Autor
+Desenvolvido por **João Pedro Epaminondas**  
+[LinkedIn](https://www.linkedin.com/in/joao-epaminondas/) | [GitHub](https://github.com/jp-epaminondas/)
 
-fiscal-de-procrastinacao/
-├── manifest.json
-├── popup/
-│   ├── popup.html
-│   ├── popup.js
-│   └── popup.css
-├── content/
-│   ├── content.js
-│   └── content.css
-├── icons/
-│   ├── icon16.png
-│   ├── icon48.png
-│   └── icon128.png
-└── README.md
+---
+
+## 📄 Licença
+MIT License © 2025 João P. Epaminondas
