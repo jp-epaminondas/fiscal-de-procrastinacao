@@ -45,6 +45,10 @@ Com o **Fiscal de Procrastinação**, você define **intervalos de bloqueio** e 
 ![Passo 3](./screenshots/3.png)
 ![Passo 4](./screenshots/4.png)
 
+---
+
+## 📂 Estrutura do Projeto
+Veja a estrutura completa do projeto [aqui](./PROJECT_STRUCTURE.md)
 
 ---
 
