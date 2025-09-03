@@ -1,0 +1,123 @@
+/* ====================================================
+   POPUP CSS - escopado dentro de .fiscal-container
+   ==================================================== */
+
+/* Container principal do popup */
+.fiscal-container {
+  padding: 20px;
+  width: 380px;
+  font-family: Arial, sans-serif;
+}
+
+/* Título */
+.fiscal-container .fiscal-title {
+  color: #e74c3c;
+  margin-bottom: 15px;
+}
+
+/* Grupo de inputs */
+.fiscal-container .fiscal-input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.fiscal-container .fiscal-input {
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+/* Botões */
+.fiscal-container .fiscal-button {
+  padding: 10px;
+  background-color: #e53935;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+.fiscal-container .fiscal-button:hover {
+  background-color: #d32f2f;
+}
+
+/* Lista de sites bloqueados */
+.fiscal-container .fiscal-site-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.fiscal-container .fiscal-site-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.fiscal-container .fiscal-site-item span {
+  font-size: 14px;
+}
+
+.fiscal-container .fiscal-site-item button {
+  background-color: #f44336;
+  padding: 5px;
+  border-radius: 50%;
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+}
+.fiscal-container .fiscal-site-item button:hover {
+  background-color: #d32f2f;
+}
+
+/* Utility margin */
+.fiscal-container .mtt-10 {
+  margin: 10px;
+}
+
+/* Botão remover */
+.fiscal-container .btn-remove-list {
+  background: #e74c3c;
+  border: none;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 6px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+.fiscal-container .btn-remove-list:hover {
+  background: #c0392b;
+}
+
+/* ============================
+   Lista estilo "cartão"
+   ============================ */
+.fiscal-container #siteList li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 8px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  transition: all 0.2s ease-in-out;
+}
+.fiscal-container #siteList li:hover {
+  background: #f1f1f1;
+}
+.fiscal-container #siteList li span {
+  flex: 1;
+  margin-right: 10px;
+}

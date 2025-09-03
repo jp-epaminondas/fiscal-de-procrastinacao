@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Fiscal de Procrastinação</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="fiscal-container">
+    <h2 class="fiscal-title">🚫 Fiscal de Procrastinação</h2>
+
+    <div class="fiscal-input-group">
+      <input id="siteInput" class="fiscal-input" type="text" placeholder="ex: youtube.com">
+      <input id="intervalInput" class="fiscal-input" type="number" placeholder="Tempo de Bloqueio (Em Minutos)" min="1">
+      <input id="allowInput" class="fiscal-input" type="number" placeholder="Tempo de Descanso (Em Minutos)" min="1">
+      <button id="addSite" class="fiscal-button">Adicionar</button>
+    </div>
+
+    <h3 class="fiscal-title">Sites bloqueados:</h3>
+    <ul id="siteList" class="fiscal-site-list"></ul>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
