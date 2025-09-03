@@ -30,12 +30,6 @@ Com o **Fiscal de Procrastinação**, você define **intervalos de bloqueio** e 
 - Um **contador de tempo restante** aparece discretamente na tela.  
 
 
-### Overlay de Bloqueio
-![Overlay de Bloqueio](./assets/overlay.png)
-
-### Contador de Descanso
-![Timer de Descanso](./assets/timer.png)
-
 ![Popup da Extensão](./screenshots/1.png)
 ![Popup da Extensão](./screenshots/2.png)
 ![Popup da Extensão](./screenshots/3.png)
