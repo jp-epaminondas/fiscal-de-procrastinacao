@@ -40,10 +40,10 @@ Com o **Fiscal de Procrastinação**, você define **intervalos de bloqueio** e 
 - Um **contador de tempo restante** aparece discretamente na tela.  
 
 
-![Popup da Extensão](./screenshots/1.png)
-![Popup da Extensão](./screenshots/2.png)
-![Popup da Extensão](./screenshots/3.png)
-![Popup da Extensão](./screenshots/4.png)
+![Passo 1](./screenshots/1.png)
+![Passo 2](./screenshots/2.png)
+![Passo 3](./screenshots/3.png)
+![Passo 4](./screenshots/4.png)
 
 
 ---
